@@ -2789,7 +2789,7 @@ case 'sewabot': {
                      }
             break
   case 'menu': {
-	anu = `Hai Kak ${pushname}\n\nSaya Adalah Risky Afk, Bot Ini Memakai Program Multi Device Beta Dari WhatsApp.\n\nJadi Jika Kamu Menemukan Bug Atau Kesalahan Silahkan Laporkan Kepada Owner Agar Segera Di Perbaiki.\n\nTerima Kasih🙏`
+	anu = `Hai Kak ${pushname}\n\nSaya Adalah Vanitas-BOTZ, Bot Ini Memakai Program Multi Device Beta Dari WhatsApp.\n\nJadi Jika Kamu Menemukan Bug Atau Kesalahan Silahkan Laporkan Kepada Owner Agar Segera Di Perbaiki.\n\nTerima Kasih🙏`
               let btn = [{
                                 urlButton: {
                                     displayText: 'INSTAGRAM🕺',
